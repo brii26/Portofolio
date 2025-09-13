@@ -11,7 +11,7 @@
   right: 40px;
   left: 40px;
   box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
-  animation: slideFadeDown .7s ease-out;
+  animation: slideFadeDown 1s ease-out;
   z-index: 100;
 }
 #header-bar:hover{
